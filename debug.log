@@ -1,0 +1,29 @@
+[0222/115811:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0222/115824:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/115836:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/115836:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/115838:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0222/115838:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0222/120133:ERROR:gpu_info_collector_win.cc(102)] Can't retrieve a valid WinSAT assessment.
+[0222/120143:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/120143:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/120144:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/120144:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0222/120145:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0222/120145:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0222/120145:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_ui_visibility' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/edge.6.0.0.min.js:74:288)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:524)
+    at <anonymous>:0:55", source:  (1)
+[0222/120145:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120145:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120146:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120146:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120147:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120147:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120147:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120147:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120147:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120217:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120217:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)
+[0222/120225:INFO:CONSOLE(22)] "maxExposableOverlayWidth()=1210maxExposableOverlayHeight()=572", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/robreno_gabriel/Desktop/CookieCode/edge_includes/an.canvas.overlay.min.js (22)

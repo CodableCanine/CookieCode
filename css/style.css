@@ -1,0 +1,89 @@
+/* W & H of a Nexus 4 = 768 X 1280 */
+
+html{
+    font-size:31.25%; /*1rem is 5px */
+}
+
+.body {
+    width: 384px;
+    height: 640px;
+    text-align: center;
+    align-content: center;
+    background-color: orange;
+    position: absolute;
+}
+
+h1 {
+    width: ;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 10px;
+    font-size: 4rem;
+    text-align: center;
+    line-height: 1.5;
+}
+
+#fortune{
+    font-size: 5rem;
+    position: absolute;
+    left: 50px;
+    top: 0;
+    width:40px;
+    overflow:hidden;
+  
+    
+}
+
+#Stage{
+    position: absolute;
+    left: -85px;
+}
+
+h2 {
+    margin-left: 0%;
+    margin-top: 50px;
+    font-size: 4rem;
+}
+
+input {
+    background-color: #333;
+    color: white;
+    font-size: 3rem;
+    padding: 1em;
+    margin: -1em;
+    border-radius: .5em;
+    transition: all .3s linear;
+}
+
+input:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+.holder {
+    text-align: center;
+}
+
+body {
+    background-color: deepskyblue;
+    text-align: center;
+    align-content: center;
+}
+
+#fortune {
+    width: 3000px;
+    text-align: center;
+    font-size: 1.5em;
+    color: black;
+    margin-top: 120px;
+    margin-left: 115px;
+    background-color: aliceblue;
+    border: 5px; 
+    border-color: aliceblue;
+    border-style: double;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 40px;
+    padding-right: 40px; 
+    box-shadow: 7px 7px 9px #524D4D;
+}

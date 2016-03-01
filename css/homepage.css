@@ -1,0 +1,82 @@
+/* W & H of a Nexus 4 = 768 X 1280 */
+
+html{
+    font-size:31.25%; /*1rem is 5px */
+}
+
+.body {
+    width: 384px;
+    height: 640px;
+    text-align: center;
+    align-content: center;
+    background-color: #c01823;
+    position: absolute;
+}
+
+h1 {
+    height: auto;
+    margin-top: 10px;
+    font-size: 4rem;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.buttons button {
+    margin-bottom: 40px;
+    font-family: Impact;
+}
+
+.buttons {
+    align-content: center;
+    height: 190px;
+    width: 40%;
+    margin-top: 100px;
+    display: inline-block;
+}
+
+.buttons a {
+    text-decoration: none;
+    color: #c01823;
+}
+
+#crackin-btn {
+    background-color: white;
+    color: #c01823;
+    font-size: 3rem;
+    width: 120px;
+    padding: 1em;
+    border-radius: 2em;
+    border: 1px;
+    transition: all 0.5s;
+}
+
+crackin-btn:hover {
+  color: #009999;
+  border: #009999;
+  opacity: 0;
+  -webkit-transform: scale(2, 2);
+  -moz-transform: scale(2, 2);
+  transform: scale(2, 2);
+}
+
+#about-btn {
+    background-color: white;
+    color: #c01823;
+    font-size: 3rem;
+    width: 120px;
+    padding: 1em;
+    position: relative;
+    border-radius: 2em;
+    border: none;
+}
+
+
+.holder {
+    text-align: center;
+}
+
+body {
+    background-color: deepskyblue;
+}
+
+
